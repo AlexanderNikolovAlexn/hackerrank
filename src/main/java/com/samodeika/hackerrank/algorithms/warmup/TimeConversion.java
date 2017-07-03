@@ -1,4 +1,4 @@
-package com.samodeika.hackerrank.algorithms;
+package com.samodeika.hackerrank.algorithms.warmup;
 
 import java.io.*;
 import java.util.*;

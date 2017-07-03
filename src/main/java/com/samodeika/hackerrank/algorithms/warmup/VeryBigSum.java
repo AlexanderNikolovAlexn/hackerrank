@@ -1,4 +1,4 @@
-package com.samodeika.hackerrank.algorithms;
+package com.samodeika.hackerrank.algorithms.warmup;
 
 /**
  * Created by Alexander Nikolov on 3.7.2017 г..
